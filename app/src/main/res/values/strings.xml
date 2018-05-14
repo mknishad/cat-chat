@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">CatChat</string>
+    <string name="user_name">spot@catchat.com</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
